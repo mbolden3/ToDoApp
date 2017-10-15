@@ -23,3 +23,7 @@ h1 {
  #add-new-todo-button:active {
      color: black;
  }
+ li { 
+     padding: 5px;
+     margin-bottom: 10px;
+ }
